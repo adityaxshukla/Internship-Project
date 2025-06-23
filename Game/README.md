@@ -1,1 +1,10 @@
+# 🎮 Creative Games — Week Assignment (Internship with Interpe)
+
+Welcome to my **Creative Games** repository!  
+This project contains my weekly assignment for my internship at **Interpe**. The goal is to design and implement simple yet engaging Python games to enhance my coding and problem-solving skills.
+
+---
+
+## 📂 **Project Structure**
+
 
