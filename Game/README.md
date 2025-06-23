@@ -7,4 +7,6 @@ This project contains my weekly assignment for my internship at **Interpe**. The
 
 ## 📂 **Project Structure**
 
+**➥** ##📑## **TicTacGame**
+
 
