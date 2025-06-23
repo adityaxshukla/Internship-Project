@@ -7,6 +7,10 @@ This project contains my weekly assignment for my internship at **Interpe**. The
 
 ## 📂 **Project Structure**
 
-**➥** ##📑## **TicTacGame**
+### 📑 [TicTacGame](Game/TicTacGame.py)
 
-
+A simple two-player Tic Tac Toe game built with Python.  
+Features:
+- Turn-based logic
+- Win/tie detection
+- Clean terminal output
