@@ -7,7 +7,7 @@ This project contains my weekly assignment for my internship at **Interpe**. The
 
 ## 📂 **Project Structure**
 
-### 📑 [TicTacGame]([Game/TicTacGame.py](https://github.com/adityaxshukla/Internship-Project/blob/f64e0cf1906dd5ceb3a726e1b8e18a091e941122/Game/TicTacGame.py))
+### 📑 [TicTacGame](Internship-Project/Game/TicTacGame.py)
 
 A simple two-player Tic Tac Toe game built with Python.  
 Features:
