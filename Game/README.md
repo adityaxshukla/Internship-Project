@@ -10,7 +10,7 @@ This project contains my weekly assignment for my internship at **Interpe**. The
 <table>
   <tr>
     <td style="width: 300px;">
-      <img src="https://github.com/user-attachments/assets/1844dcbe-eb9f-4558-ab93-035d89c48fe4" alt="TicTacGame Screenshot" style="width: 100%; border-radius: 8px;"/>
+      <img src="https://github.com/user-attachments/assets/1844dcbe-eb9f-4558-ab93-035d89c48fe4" alt="TicTacGame Screenshot" style="width: 100%; border-radius: 24px;"/>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>📑 <a href="TicTacGame.py">TicTacGame</a></h3>
@@ -23,3 +23,4 @@ This project contains my weekly assignment for my internship at **Interpe**. The
     </td>
   </tr>
 </table>
+
