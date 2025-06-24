@@ -21,7 +21,7 @@ A simple two-player Tic Tac Toe game built with Python.
 ✅ **Features:**
 - Turn-based logic
 - Win/tie detection
-- Clean terminal output
+- re-start Game, score count.
 
 
 
