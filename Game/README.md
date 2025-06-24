@@ -14,3 +14,4 @@ Features:
 - Turn-based logic
 - Win/tie detection
 - Clean terminal output
+![Screenshot 2025-06-21 232341](https://github.com/user-attachments/assets/1844dcbe-eb9f-4558-ab93-035d89c48fe4)
