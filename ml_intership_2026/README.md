@@ -1,6 +1,9 @@
-# Internship Project|
-Name: Aditya Kumar |
+# Internship Project
+
+Name: Aditya Kumar 
+
 Reg No.: 23105130019
+
 Machine learning internship projects completed in 2026.
 
 ## Projects
